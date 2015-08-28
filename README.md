@@ -29,4 +29,4 @@ Open the MysqlToDropbox.php file and update this file as needed.
 Make sure you set your Access Token you generated in Step 5, as well as your database credentials
 
 Step 7:
-Try to run script from command line
+Make sure your MysqlToDropbox.php file has execute (+x) permissions and then try to run script from command line
