@@ -8,6 +8,8 @@ https://github.com/jakajancar/DropboxUploader
 https://daveismyname.com/backup-to-dropbox-with-php-bp
 
 #Installation
+Download or clone code from this repository.
+
 Step 1: 
 Login to: https://www.dropbox.com/developers/apps/create
 
